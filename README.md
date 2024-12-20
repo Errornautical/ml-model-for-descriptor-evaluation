@@ -17,7 +17,7 @@ Repository Structure
 Dataset
 
 The dataset is sourced from:
-[Link Text](https://raw.githubusercontent.com/dataprofessor/data/master/delaney_solubility_with_descriptors.csv) Delaney Solubility 
+[Delaney Solubility](https://raw.githubusercontent.com/dataprofessor/data/master/delaney_solubility_with_descriptors.csv) 
 
 Description
 
