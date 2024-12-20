@@ -12,12 +12,12 @@ Features
 
 Repository Structure
 
-src/: Contains the main Python scripts.
+[Main Script](src/main.py) Contains the main Python scripts.
 
 Dataset
 
 The dataset is sourced from:
-https://raw.githubusercontent.com/dataprofessor/data/master/delaney_solubility_with_descriptors.csv
+[Link Text](https://raw.githubusercontent.com/dataprofessor/data/master/delaney_solubility_with_descriptors.csv) Delaney Solubility 
 
 Description
 
